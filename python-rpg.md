@@ -1,4 +1,4 @@
-Check out the YouTube video explaining this project here!
+Check out the [YouTube video explaining this project here!](https://youtu.be/yR_pLQHTlHI)
 
 ```python
 #!/usr/bin/python3
